@@ -5,6 +5,7 @@ Seismology has witnessed significant advancements in recent years with the appli
 - Independent Research Group Leader, Frankfurt Institute for Advanced Studies (FIAS), Germany (August 2020 – till date)
 - Postdoctoral Researcher, Frankfurt Institute for Advanced Studies (FIAS), Germany (October 2018 – July 2020)
 
+
 ## Teaching Experience
 - Guest Lecturer in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main
 
@@ -27,4 +28,9 @@ High-rate Global Navigation Satellite System (HR-GNSS) data can be highly useful
 
 
 ![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/90f21ed0-3c1e-467f-90c5-66af457899b9)
+
+### Seismo-Volcanic event Analysis
+
+![fias_article](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/2a5f3319-cb65-4a41-9b0a-4b06d36e97cf)
+
 
