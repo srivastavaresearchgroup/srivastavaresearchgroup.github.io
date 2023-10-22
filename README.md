@@ -9,6 +9,15 @@ Seismology has witnessed significant advancements in recent years with the appli
 ## Teaching Experience
 - Guest Lecturer in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main
 
+
+## Research Team
+
+
+![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/f0194c21-dc0d-484d-97b0-328ad773ca1c)
+
+
+
+
 ## Research Projects
 ### Seismic Signal Analysis using Deep Learning for single station
 My team has developed an open-source Python package - **SAIPy** for fast seismic waveform data processing by implementing deep learning. SAIPy is an open-source python library where we strive to combine our previously published models into an automated pipeline for monitoring continuous seismic data so that it can be easily implemented by seismologists. It offers solutions for multiple seismological tasks such as earthquake detection, magnitude estimation, seismic phase picking, and polarity identification.
@@ -30,6 +39,9 @@ High-rate Global Navigation Satellite System (HR-GNSS) data can be highly useful
 ![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/90f21ed0-3c1e-467f-90c5-66af457899b9)
 
 ### Seismo-Volcanic event Analysis
+
+Many active volcanoes exhibit Strombolian activity, which is typically characterized by relatively frequent mild volcanic explosions and also by rare and much more destructive major explosions and paroxysms. Detailed analyses of past major and minor events can help to understand the eruptive behavior of volcanoes and the underlying physical and chemical processes. Catalogs of these eruptions and, specifically, seismo-volcanic events may be generated using continuous seismic recordings at stations in the proximity of volcanoes. However, in many cases, the analysis of the recordings relies heavily on the manual picking of events by human experts. Recently developed Machine Learning-based approaches require large training data sets which may not be available a priori. Here, we propose an alternative user-friendly, time-saving, automated approach labelled as: the Adaptive-Window Volcanic Event Selection Analysis Module (AWESAM). This strategy of creating seismo-volcanic event catalogs consists of three main steps: 1) identification of potential volcanic events based on squared ground-velocity amplitudes, an adaptive MaxFilter, and a prominence threshold. 2) catalog consolidation by comparing and verifying the initial detections based on recordings from two different seismic stations. 3) identification and exclusion of signals from regional tectonic earthquakes. The strength of the python package is the reliable detection of very small and frequent events as well as major explosions and paroxysms. Here, we apply AWESAM to seismic data from Stromboli (Italy), Mount Etna (Italy), Yasur (Vanuatu) and Whakaari (New Zealand). We perform an inter-event time analysis to identify characteristic patterns in the events' recurrence time and the volcanic activity. We also derive a new amplitude-frequency relationship from seismo-volcanic events. With this relation, we can confirm a change in slope for large events at Stromboli, which is based on ten years of data.
+
 
 ![fias_article](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/2a5f3319-cb65-4a41-9b0a-4b06d36e97cf)
 
