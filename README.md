@@ -1,6 +1,8 @@
 # Seismologist
 Seismology has witnessed significant advancements in recent years with the application of deep learning methods to address a broad range of problems. My research group seeks to apply novel Deep Learning and Machine Learning based algorithms on seismic signals to improve Earthquake Early Warning System (EEWs) and Seismic Signal Analysis. Additionally, by implementing distinct Artificial Intelligence-driven models, High Performance Computing and supported by the statistical analysis based on classical models we are also trying to better understand the pattern associated with Seismic stress release.
 
+[Email](srivastava@fias.uni-frankfurt.de)
+
 [Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)                    [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)               [Twitter](https://twitter.com/nishthasrivastv)
 ## Research Position
 - Independent Research Group Leader, Frankfurt Institute for Advanced Studies (FIAS), Germany (August 2020 – till date)
