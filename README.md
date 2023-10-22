@@ -5,7 +5,7 @@ Seismology has witnessed significant advancements in recent years with the appli
 
 email: srivastava@fias.uni-frankfurt.de
 
-[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)                    [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)               [Twitter](https://twitter.com/nishthasrivastv)
+[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)       •             [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)       •        [Twitter](https://twitter.com/nishthasrivastv)
 ## Research Position
 - Independent Research Group Leader, Frankfurt Institute for Advanced Studies (FIAS), Germany (August 2020 – till date)
 - Postdoctoral Researcher, Frankfurt Institute for Advanced Studies (FIAS), Germany (October 2018 – July 2020)
