@@ -1,14 +1,18 @@
 # Seismologist
 Seismology has witnessed significant advancements in recent years with the application of deep learning methods to address a broad range of problems. My research group seeks to apply novel Deep Learning and Machine Learning based algorithms on seismic signals to improve Earthquake Early Warning System (EEWs) and Seismic Signal Analysis. Additionally, by implementing distinct Artificial Intelligence-driven models, High Performance Computing and supported by the statistical analysis based on classical models we are also trying to better understand the pattern associated with Seismic stress release.
 
-[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)   [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)   [Twitter](https://twitter.com/nishthasrivastv)
+[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)                    [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)               [Twitter](https://twitter.com/nishthasrivastv)
 ## Research Position
 - Independent Research Group Leader, Frankfurt Institute for Advanced Studies (FIAS), Germany (August 2020 – till date)
 - Postdoctoral Researcher, Frankfurt Institute for Advanced Studies (FIAS), Germany (October 2018 – July 2020)
 
 
 ## Teaching Experience
-- Guest Lecturer in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main
+- Guest Lecturer in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main, (April 2022 – till date)
+- Trained the scientist of Institute of Seismological Research (ISR) Gandhinagar and National Centre of Seismology (NCS), Ministry of Earth Sciences (MoES), New Delhi   on ‘Introduction to Deep Learning’ through an Intensive 4-day workshop at ISR (February 2023)
+
+ ![WhatsApp Image 2023-10-22 at 08 40 26](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/f015ff6d-9d97-4b8e-9c7b-425e563a4b85)
+ 
 
 
 ## Research Team
