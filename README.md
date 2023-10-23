@@ -18,6 +18,9 @@ email: srivastava@fias.uni-frankfurt.de
  ![WhatsApp Image 2023-10-22 at 08 40 26](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/f015ff6d-9d97-4b8e-9c7b-425e563a4b85)
  
 
+## Funding Acquired (around ~ 1.6 million euros)
+- the “KI-Nachwuchswissenschaftlerinnen"-grant SAI 01IS20059 by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung – BMBF)  for the project [Seismology and AI](https://fias.institute/en/projects/sai-seismology-and-artificial-intelligence/)
+- the 2023 edition of the Partenariat Hubert Curien (PHC) Procope Program between Germany and France in collaboration with CentraleSupélec, Université Paris-Saclay
 
 ## Research Team
 
