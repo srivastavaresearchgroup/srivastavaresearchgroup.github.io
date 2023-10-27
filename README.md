@@ -22,6 +22,9 @@ email: srivastava@fias.uni-frankfurt.de
 - the “KI-Nachwuchswissenschaftlerinnen"-grant by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung – BMBF)  for the project [Seismology and AI](https://fias.institute/en/projects/sai-seismology-and-artificial-intelligence/)
 - the 2023 edition of the Partenariat Hubert Curien (PHC) Procope Program between Germany and France in collaboration with CentraleSupélec, Université Paris-Saclay for the project EQUATE
 
+## MoU signed
+- Established five years [Research co-operation](https://fias.news/en/news-publicity/new-research-collaboration-on-artificial-intelligence-in-geophysics/) between Frankfurt Institute for Advanced Studies, Germany and Institute of Seismological Research Gandhinagar India
+
 ## Research Team
 
 
