@@ -34,6 +34,8 @@ email: srivastava@fias.uni-frankfurt.de
 
 ## Research Team
 
+![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/cce98f9b-8e6d-4b74-a7b8-09a66ec65a4c)
+
 ![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/fe011036-e7d1-4325-b907-0d965bfdf8c2)
 
 
