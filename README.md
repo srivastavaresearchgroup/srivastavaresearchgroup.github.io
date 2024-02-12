@@ -26,7 +26,7 @@ email: srivastava@fias.uni-frankfurt.de
 - Established five years [Research co-operation](https://fias.news/en/news-publicity/new-research-collaboration-on-artificial-intelligence-in-geophysics/) between Frankfurt Institute for Advanced Studies, Germany and Institute of Seismological Research Gandhinagar India
 
 ## Research Events organized
-- Co-convener in European Geosciences Union 2023 in the session titled [Interfacing machine learning and numerical modelling - challenges, successes, and lessons learned.] (https://meetingorganizer.copernicus.org/EGU24/session/50537)
+- Co-convener in European Geosciences Union 2023 in the session titled [Interfacing machine learning and numerical modelling - challenges, successes, and lessons learned](https://meetingorganizer.copernicus.org/EGU24/session/50537)
 - Organized [Seismology and Artificial Intelligence workshop](https://fias.institute/en/events/conferences/2023/sai-2023/) funded by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung - BMBF) from 13th September to 15 September 2023.
 - Co-convener in European Geosciences Union 2023 in the session titled [Hybrid modeling of natural hazards: blending deep-learning, data-driven approaches and physics-based simulations](https://meetingorganizer.copernicus.org/EGU23/session/46864)
 - Convener in Seismological Society of America 2023 in the session titled [Opportunities and Challenges for Machine Learning Applications in Seismology](https://meetings.seismosoc.org/wp-content/uploads/2022/11/2023-Sessions.pdf)
