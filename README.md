@@ -12,7 +12,7 @@ email: srivastava@fias.uni-frankfurt.de
 
 
 ## Teaching Experience
-- [Guest Lecturer](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=356597&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y) in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main, (April 2022 – till date)
+- [Guest Lecturer]([https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=356597&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=386447&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main, (April 2022 – till date)
 - Trained the scientist of Institute of Seismological Research (ISR) Gandhinagar and National Centre of Seismology (NCS), Ministry of Earth Sciences (MoES), New Delhi   on ‘Introduction to Deep Learning’ through an Intensive 4-day workshop at ISR (February 2023)
 
  ![WhatsApp Image 2023-10-22 at 08 40 26](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/f015ff6d-9d97-4b8e-9c7b-425e563a4b85)
