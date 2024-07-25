@@ -55,14 +55,14 @@ Reliable earthquake forecasting methods have long been sought after, and so the 
 
 ![Japan_SAPaper_Mw](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/502995d0-91eb-4ee6-bb63-9dbc8681f449)
 
-### Application of Deep Learning in HR-GNSS data
+### High magnitude event detection in HR-GNSS data using deep learning
 
 High-rate Global Navigation Satellite System (HR-GNSS) data can be highly useful for earthquake analysis as it provides continuous high-rate measurements of ground motion. In this project, we are attempting to identify high magnitude event and estimate the magnitude using HR-GNSS displacement time series.
 
 
 ![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/90f21ed0-3c1e-467f-90c5-66af457899b9)
 
-### Seismo-Volcanic event Analysis
+### **AWESAM** - Seismo-Volcanic event Analysis
 
 Many active volcanoes exhibit Strombolian activity, which is typically characterized by relatively frequent mild volcanic explosions and also by rare and much more destructive major explosions and paroxysms. Catalogs of these eruptions and, specifically, seismo-volcanic events may be generated using continuous seismic recordings at stations in the proximity of volcanoes. We developed an automated user-friendly, time-saving, automated approach via a python package labelled as: the Adaptive-Window Volcanic Event Selection Analysis Module ([AWESAM](https://github.com/srivastavaresearchgroup/AWESAM)). This strategy of creating seismo-volcanic event catalogs consists of three main steps: 1) identification of potential volcanic events based on squared ground-velocity amplitudes, an adaptive MaxFilter, and a prominence threshold. 2) catalog consolidation by comparing and verifying the initial detections based on recordings from two different seismic stations. 3) identification and exclusion of signals from regional tectonic earthquakes. The strength of the python package is the reliable detection of very small and frequent events as well as major explosions and paroxysms. We applied AWESAM to seismic data from Stromboli (Italy), Mount Etna (Italy), Yasur (Vanuatu) and Whakaari (New Zealand) and performed an inter-event time analysis to identify characteristic patterns in the events' recurrence time and the volcanic activity. We also derive a new amplitude-frequency relationship from seismo-volcanic events. With this relation, we can confirm a change in slope for large events at Stromboli, which is based on ten years of data.
 
