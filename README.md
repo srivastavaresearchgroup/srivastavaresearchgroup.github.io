@@ -1,5 +1,5 @@
 
-I am a Seismologist who is passionate about the potential of deep learning, machine learning and high-performance computing in Geosciences. I seek to apply novel deep learning and machine learning based algorithms on Earthquake and Volcano data to improve Early Warning System (EEWs) and Seismic Signal Analysis. I also use statistical and machine learning methods to better understand the pattern associated with seismic stress release. Currently, I am leading the Seismology and Artificial Intelligence group in Frankfurt Institute for Advanced Studies. I am also a lecturer at the Goethe University Frankfurt. 
+I am a **Seismologist** who is passionate about the potential of **deep learning**, **machine learning** and high-performance computing in Geosciences. I seek to apply novel deep learning and machine learning based algorithms on Earthquake and Volcano data to improve Early Warning System (EEWs) and Seismic Signal Analysis. I also use statistical and machine learning methods to better understand the pattern associated with seismic stress release. Currently, I am leading the Seismology and Artificial Intelligence group in Frankfurt Institute for Advanced Studies. I am also a lecturer at the Goethe University Frankfurt. 
 
 [Institute Webpage](https://www.fias.science/en/theoretical-sciences/research-groups/nishtha-srivastava/)
 
