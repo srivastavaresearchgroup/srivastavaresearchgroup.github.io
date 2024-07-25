@@ -1,9 +1,9 @@
-# Seismologist
+
 I am a Seismologist who is passionate about the potential of deep learning, machine learning and high-performance computing in Geosciences. I seek to apply novel deep learning and machine learning based algorithms on Earthquake and Volcano data to improve Early Warning System (EEWs) and Seismic Signal Analysis. I also use statistical and machine learning methods to better understand the pattern associated with seismic stress release. Currently, I am leading the Seismology and Artificial Intelligence group in Frankfurt Institute for Advanced Studies. I am also a lecturer at the Goethe University Frankfurt. 
 
 [Institute Webpage](https://www.fias.science/en/theoretical-sciences/research-groups/nishtha-srivastava/)
 
-email: srivastava@fias.uni-frankfurt.de
+email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)       •             [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)       •        [Twitter](https://twitter.com/nishthasrivastv)
 ## Research Position
@@ -43,8 +43,8 @@ email: srivastava@fias.uni-frankfurt.de
 
 
 ## Research Projects
-### Seismic Signal Analysis using Deep Learning for single station
-My team has developed an open-source Python package - **SAIPy** for fast seismic waveform data processing by implementing deep learning. [SAIPy](https://github.com/srivastavaresearchgroup/SAIPy) is an open-source python library where we strive to combine our previously published models into an automated pipeline for monitoring continuous seismic data so that it can be easily implemented by seismologists. It offers solutions for multiple seismological tasks such as earthquake detection, magnitude estimation, seismic phase picking, and polarity identification.
+### **SAIPy** - An open source python package for Earthquake Monitoring using deep learning
+We have developed an open-source Python package - **SAIPy** for fast seismic waveform data processing by implementing deep learning. [SAIPy](https://github.com/srivastavaresearchgroup/SAIPy) is an open-source python library where we strive to combine our previously published models into an automated pipeline for monitoring continuous seismic data so that it can be easily implemented by seismologists. It offers solutions for multiple seismological tasks such as earthquake detection, magnitude estimation, seismic phase picking, and polarity identification.
 
 
 ![saipy_course_cover_photo](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/1f3cc16c-8d08-455c-aae2-98de9798359b)
