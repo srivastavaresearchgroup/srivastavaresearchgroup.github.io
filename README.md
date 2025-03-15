@@ -1,10 +1,10 @@
-I am a **Geophysicist** and **AI researcher** focusing on the application of **deep learning**, **machine learning** and **high performance computing** in Geosciences. I lead an independent research group, developing data-driven methods for analyzing large-scale seismic datasets with applications in earthquake source processes, improve Early Warning System (EWs) and Seismic Signal Analysis. My work includes developing open-source tools such as [AWESAM](https://github.com/srivastavaresearchgroup/AWESAM) and [SAIPy](https://github.com/srivastavaresearchgroup/SAIPy) together with my team and securing approximately €2 million in research funding to advance AI-driven seismic analysis.
+I am a **Geophysicist** and **AI researcher** focusing on the application of **deep learning**, **machine learning** and **high performance computing** in Geosciences. I lead an independent research group, developing data-driven methods for analyzing large-scale seismic datasets with applications in earthquake source processes, Early Warning System (EWs) and Seismic Signal Analysis. My work includes developing open-source tools such as [AWESAM](https://github.com/srivastavaresearchgroup/AWESAM) and [SAIPy](https://github.com/srivastavaresearchgroup/SAIPy) together with my team and securing approximately €2 million in research funding to advance AI-driven seismic analysis.
 
 [Institute Webpage](https://www.fias.science/en/theoretical-sciences/research-groups/nishtha-srivastava/)
 
 email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)       •             [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)       •        [Twitter](https://twitter.com/nishthasrivastv)  •             [Bluesky](https://bsky.app/profile/nishthasrivastv.bsky.social))
+[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)       •             [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)       •        [Twitter](https://twitter.com/nishthasrivastv)  •             [Bluesky](https://bsky.app/profile/nishthasrivastv.bsky.social)
 ## Research Position
 - Independent Research Group Leader, Frankfurt Institute for Advanced Studies (FIAS), Germany (August 2020 – till date)
 - Postdoctoral Researcher, Frankfurt Institute for Advanced Studies (FIAS), Germany (October 2018 – July 2020)
