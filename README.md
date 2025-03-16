@@ -10,6 +10,12 @@ email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
 - Postdoctoral Researcher, Frankfurt Institute for Advanced Studies (FIAS), Germany (October 2018 – July 2020)
 
 
+## Funding Acquired (around 1.9 million euros)
+- [Seismology and AI](https://fias.institute/en/projects/sai-seismology-and-artificial-intelligence/) Project funded by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung – BMBF).
+- EQUATE Project funded by the 2023 edition of the Partenariat Hubert Curien (PHC) Procope Program between Germany and France in collaboration with CentraleSupélec, Université Paris-Saclay.
+- [GANANA](https://eurohpc-ju.europa.eu/new-eurohpc-project-strengthening-eu-india-ties-ganana-project-2025-02-14_en) Project for Europe-India Partnership for Scientific High-Performance Computing funded by Horizon Europe funding programme
+
+
 ## Teaching Experience
 - [Guest Lecturer](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=386447&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main, (April 2022 – till date)
 - Trained the scientist of Institute of Seismological Research (ISR) Gandhinagar and National Centre of Seismology (NCS), Ministry of Earth Sciences (MoES), New Delhi   on ‘Introduction to Deep Learning’ through an Intensive 4-day workshop at ISR (February 2023)
@@ -17,9 +23,7 @@ email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
  ![WhatsApp Image 2023-10-22 at 08 40 26](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/f015ff6d-9d97-4b8e-9c7b-425e563a4b85)
  
 
-## Funding Acquired (around 1.6 million euros)
-- the “KI-Nachwuchswissenschaftlerinnen"-grant by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung – BMBF)  for the project [Seismology and AI](https://fias.institute/en/projects/sai-seismology-and-artificial-intelligence/)
-- the 2023 edition of the Partenariat Hubert Curien (PHC) Procope Program between Germany and France in collaboration with CentraleSupélec, Université Paris-Saclay for the project EQUATE
+
 
 ## MoU signed
 - Established five years [Research co-operation](https://fias.news/en/news-publicity/new-research-collaboration-on-artificial-intelligence-in-geophysics/) between Frankfurt Institute for Advanced Studies, Germany and Institute of Seismological Research Gandhinagar India
