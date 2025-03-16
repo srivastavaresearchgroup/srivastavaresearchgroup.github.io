@@ -10,7 +10,7 @@ email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
 - Postdoctoral Researcher, Frankfurt Institute for Advanced Studies (FIAS), Germany (October 2018 – July 2020)
 
 
-## Funding Acquired (around 1.9 million euros)
+## Funding Acquired (around 2 million euros)
 - [Seismology and AI](https://fias.institute/en/projects/sai-seismology-and-artificial-intelligence/) Project funded by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung – BMBF).
 - EQUATE Project funded by the 2023 edition of the Partenariat Hubert Curien (PHC) Procope Program between Germany and France in collaboration with CentraleSupélec, Université Paris-Saclay.
 - [GANANA](https://eurohpc-ju.europa.eu/new-eurohpc-project-strengthening-eu-india-ties-ganana-project-2025-02-14_en) Project for Europe-India Partnership for Scientific High-Performance Computing funded by Horizon Europe funding programme.
