@@ -1,12 +1,12 @@
-I am a **Geophysicist** and **AI researcher** specializing in the application of **deep learning**, **machine learning** and **high performance computing** in Geosciences. As the leader of an independent research group, I develop data-driven methods to analyze large-scale seismic datasets, with applications in earthquake source processes, Early Warning Systems (EWS), and Seismic Signal Analysis. My work includes creating open-source tools such as [AWESAM](https://github.com/srivastavaresearchgroup/AWESAM) and [SAIPy](https://github.com/srivastavaresearchgroup/SAIPy) in collaboration with my team and securing approximately €2 million in research funding to advance AI-driven seismic analysis.
+I am a **Geophysicist** and **AI researcher** specializing in the application of **deep learning**, **machine learning** and **high performance computing** with over 6 years of experience applying machine learning to large-scale seismic and geospatial data. My work integrates deep learning (PyTorch, TensorFlow), signal processing, and time series analysis to tackle high-impact problems in seismology and natural hazard forecasting. I’ve led the development of two open-source Python packages [AWESAM](https://github.com/srivastavaresearchgroup/AWESAM) and [SAIPy](https://github.com/srivastavaresearchgroup/SAIPy) in collaboration with my team. and securing approximately €2 million in research funding to advance AI-driven seismic analysis. I’ve secured more than €2 million in competitive research funding, mentored PhD students and postdocs, and delivered workshops to both academic and government stakeholders across the geoscience and disaster response communities.
 
-[Institute Webpage](https://www.fias.science/en/theoretical-sciences/research-groups/nishtha-srivastava/)
+email: N.Srivastava@em.uni-frankfurt.de | nishtha.vns@gmail.com
 
-email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
+[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)       •             [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)       •             [Bluesky](https://bsky.app/profile/nishthasrivastv.bsky.social)
 
-[Linkedin](https://www.linkedin.com/in/nishtha-srivastava-82a273137/)       •             [Google Scholar](https://scholar.google.co.in/citations?user=NYnFDLYAAAAJ&hl=en)       •        [Twitter](https://twitter.com/nishthasrivastv)  •             [Bluesky](https://bsky.app/profile/nishthasrivastv.bsky.social)
 ## Research Position
-- Independent Research Group Leader, Frankfurt Institute for Advanced Studies (FIAS), Germany (August 2020 – till date)
+- Independent Research Group Leader, Goethe University, Germany (February 2024 – till date)
+- Independent Research Group Leader, Frankfurt Institute for Advanced Studies (FIAS), Germany (August 2020 – December 2024)
 - Postdoctoral Researcher, Frankfurt Institute for Advanced Studies (FIAS), Germany (October 2018 – July 2020)
 
 
@@ -17,8 +17,8 @@ email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
 
 
 ## Teaching Experience
-- [Guest Lecturer](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=386447&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main, (April 2022 – till date)
-- Trained the scientist of Institute of Seismological Research (ISR) Gandhinagar and National Centre of Seismology (NCS), Ministry of Earth Sciences (MoES), New Delhi   on ‘Introduction to Deep Learning’ through an Intensive 4-day workshop at ISR (February 2023)
+- [Guest Lecturer](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=386447&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) **Introduction to Deep- and Machine Learning in Geosciences**  in Faculty of Geosciences and Geography, Goethe University, 60438 Frankfurt am Main, (April 2022 – till date)
+- Trained the scientist of Institute of Seismological Research (ISR) Gandhinagar and National Centre of Seismology (NCS), Ministry of Earth Sciences (MoES), New Delhi   on **Introduction to Deep Learning** through an Intensive 4-day workshop at ISR (February 2023)
 
  ![WhatsApp Image 2023-10-22 at 08 40 26](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/f015ff6d-9d97-4b8e-9c7b-425e563a4b85)
  
@@ -34,15 +34,6 @@ email: srivastava@fias.uni-frankfurt.de | nishtha.vns@gmail.com
 - Co-convener in European Geosciences Union 2023 in the session titled [Hybrid modeling of natural hazards: blending deep-learning, data-driven approaches and physics-based simulations](https://meetingorganizer.copernicus.org/EGU23/session/46864)
 - Convener in Seismological Society of America 2023 in the session titled [Opportunities and Challenges for Machine Learning Applications in Seismology](https://meetings.seismosoc.org/wp-content/uploads/2022/11/2023-Sessions.pdf)
 - Organized the [Kickoff SAI workshop](https://fias.institute/en/events/conferences/2021/sai-kickoff-workshop/) funded by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung - BMBF) from 27th September to 1st October 2021.
-
-## Research Team
-
-![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/cce98f9b-8e6d-4b74-a7b8-09a66ec65a4c)
-
-
-
-
-
 
 
 ## Research Projects
@@ -72,4 +63,7 @@ Many active volcanoes exhibit Strombolian activity, which is typically character
 
 ![fias_article](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/2a5f3319-cb65-4a41-9b0a-4b06d36e97cf)
 
+## Past and Current students mentored
+
+![grafik](https://github.com/srivastavaresearchgroup/srivastavaresearchgroup.github.io/assets/98320065/cce98f9b-8e6d-4b74-a7b8-09a66ec65a4c)
 
