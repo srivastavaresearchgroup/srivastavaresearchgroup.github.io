@@ -29,7 +29,7 @@ email: N.Srivastava@em.uni-frankfurt.de | nishtha.vns@gmail.com
 - Established five years [Research co-operation](https://fias.news/en/news-publicity/new-research-collaboration-on-artificial-intelligence-in-geophysics/) between Frankfurt Institute for Advanced Studies, Germany and Institute of Seismological Research Gandhinagar India
 
 ## Research Events organized
--Convener in European Geosciences Union 2026 in the session titled [AI- & HPC-Driven Advances for Time-Critical Natural Hazard Detection, Forecasting, Modeling, and Response](https://meetingorganizer.copernicus.org/EGU26/session/57536)
+- Convener in European Geosciences Union 2026 in the session titled [AI- & HPC-Driven Advances for Time-Critical Natural Hazard Detection, Forecasting, Modeling, and Response](https://meetingorganizer.copernicus.org/EGU26/session/57536)
 - Co-convener in European Geosciences Union 2024 in the session titled [Interfacing machine learning and numerical modelling - challenges, successes, and lessons learned](https://meetingorganizer.copernicus.org/EGU24/session/50537)
 - Organized [Seismology and Artificial Intelligence workshop](https://fias.institute/en/events/conferences/2023/sai-2023/) funded by the Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung - BMBF) from 13th September to 15 September 2023.
 - Co-convener in European Geosciences Union 2023 in the session titled [Hybrid modeling of natural hazards: blending deep-learning, data-driven approaches and physics-based simulations](https://meetingorganizer.copernicus.org/EGU23/session/46864)
